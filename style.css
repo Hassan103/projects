@@ -1,0 +1,186 @@
+#ban1
+{
+width:68%;
+height:550px;
+background-color:#30333a;
+ 
+}
+#ban2
+{
+width:50px;
+height:10px;
+background-img:url("images/lg.jpg");
+float:left;
+margin: 9;
+}
+
+#txt
+{
+color : white ;
+font-weight: 100 ;
+text-decoration : none ;
+transform: translate(115%, -180%);
+}
+#flg
+{
+width:50px;
+height:10px;
+background-img:url("images/d.gif");
+float:left;
+transform: translate(1470%, -500%)
+}
+#flds
+{
+width:50px;
+height:10px;
+background-img:url("images/d.gif");
+float:left;
+transform: translate(100%, -395%)
+}
+#jeremy
+{
+width:50px;
+height:10px;
+background-img:url("images/jeremy.jpg");
+transform: translate(-550px, -7px)
+}
+#elea
+{
+width:50px;
+height:10px;
+background-img:url("images/elea.jpg");
+transform: translate(-550px, -7px)
+}
+#aurelia
+{
+width:50px;
+height:10px;
+background-img:url("images/aurelia.jpg");
+transform: translate(50px, -225px)
+}
+#Bertrand
+{
+width:50px;
+height:10px;
+background-img:url("images/Bertrand.jpg");
+transform: translate(54px, -457px)
+}
+#q
+{
+width:50px;
+height:10px;
+background-img:url("images/q.jpg");
+transform: translate(-248px, -457px)
+}
+#gr
+{
+width:50px;
+height:10px;
+background-img:url("images/gr.jpg");
+transform: translate(54px, -682px)
+}
+#play
+{
+width:50px;
+height:10px;
+background-img:url("images/play1.gif");
+transform: translate(-795px, -958px)
+}
+#play1
+{
+width:50px;
+height:10px;
+background-img:url("images/play1.gif");
+transform: translate(-495px, -996px)
+}
+#play2
+{
+width:50px;
+height:10px;
+background-img:url("images/play1.gif");
+transform: translate(-195px, -1035px)
+}
+#play3
+{
+width:50px;
+height:10px;
+background-img:url("images/play1.gif");
+transform: translate(-796px, -852px)
+}
+#bin
+{
+width:50px;
+height:10px;
+background-img:url("images/bin.jpg");
+transform: translate(356px, -1292px)
+}
+#grou
+{
+width:50px;
+height:10px;
+background-img:url("images/grou.jpg");
+transform: translate(356px, -1292px)
+}
+#msg
+{
+width:50px;
+height:10px;
+background-img:url("images/msg.jpg");
+transform: translate(658px, -1742px)
+}
+#betisier
+{
+width:50px;
+height:10px;
+background-img:url("images/betisier.jpg");
+transform: translate(658px, -1742px)
+}
+#wt
+{
+width:50px;
+height:10px;
+background-img:url("images/wt.jpg");
+transform: translate(960px, -2192px)
+}
+#ts
+{
+width:50px;
+height:10px;
+background-img:url("images/ts.jpg");
+transform: translate(960px, -2192px)
+}
+#play4
+{
+width:50px;
+height:10px;
+background-img:url("images/play1.gif");
+transform: translate(410px, -2245px)
+}
+#ts img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
+#wt img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
+#play img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
+#play1 img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
+#play2 img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
+#play3 img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
+#play4 img:hover {
+	filter:grayscale(0);
+	transform:scale(1.1);
+}
